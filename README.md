@@ -1,7 +1,8 @@
 # Hello World!!!
 
 
-eu sou um desenvolvedor back-end atualmente cursando análise e desenvolvimento de sistemas na universidade cidade são paulo 
+eu sou um desenvolvedor back-end atualmente cursando análise e desenvolvimento de sistemas na universidade cidade são paulo,tenho interesse em dados e back-end! 
+  
   </p>
 
 **A passionate bac-end Developer from Brazil 🇧🇷**

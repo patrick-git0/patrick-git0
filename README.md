@@ -6,7 +6,7 @@
   
   </p>
 
-**A passionate bac-end Developer from Brazil 🇧🇷**
+**A passionate back-end Developer from Brazil 🇧🇷**
 
 
 <!--START_SECTION:waka-->

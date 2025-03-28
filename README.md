@@ -54,7 +54,7 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 **Frontend Developer (Jr)** \
 [**DevOps**](https://devops.tec.br/) • Full time \
 Feb • Currently \
-Languages & Technologies: `python` `SQL` `HTML` `CSS`
+Languages & Technologies: `python` `SQL` `HTML` `CSS` `git`
 
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 

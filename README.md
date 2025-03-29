@@ -41,7 +41,16 @@ Database: PostgreSQL
 Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 
 <img width="100%" src="https://skillicons.dev/icons?i=html,css,python,git,github,vscode,windows,=light&perline=12" alt="Skills Icons"/> 
-                   
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="100px" 
+    style="padding-right: 100px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+          />
+                            
 <br>
           
 <img width="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" align="right" >

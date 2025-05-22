@@ -40,7 +40,7 @@ Database: PostgreSQL
 
 Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,windows,java,sqlite,apple,anaconda,pycharm,htmx,django,=light&perline=12" alt="Skills Icons"/> 
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,windows,java,sqlite,apple,anaconda,pycharm,htmx,django,cs,=light&perline=12" alt="Skills Icons"/> 
                             
 <br>
           

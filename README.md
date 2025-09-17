@@ -55,7 +55,7 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 **backend Developer** \
 [**DevOps**](https://devops.tec.br/) • Full time \
 Feb • Currently \
-Languages & Technologies: `python` `SQL` `HTML` `CSS` `git` `javascript`
+Languages & Technologies: `python` `SQL` `Power BI` `HTML` `CSS` `git` `javascript` `AWS` `PHP` `C`
 
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 

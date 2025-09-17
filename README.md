@@ -16,7 +16,7 @@
 💬 Programming Languages:
 python      ████████████████░░░░░░░░░   64.63 %
 SQL         ███████░░░░░░░░░░░░░░░░░░   26.15 %
-HTML        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+C           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 
 🔥 Editors: 
 VS Code                        █████████████████████████   100.00 % 
@@ -28,15 +28,15 @@ Windows                            ███████████████
 
 <!--<img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>-->
 
-<!-- Languages: HTML, CSS, Sass, JavaScript, TypeScript, Python, LaTeX
+<!-- Languages: HTML, CSS, C, JavaScript, TypeScript, Python, PHP
 
-Frameworks and Libraries: Angular, React, Next.js, Vite, Node.js, Tailwind CSS
+Frameworks and Libraries: pandas, vue, motliplib, Node.js, Tailwind CSS
 
 Build and Packaging Tools: NPM, Docker
 
 Version Control and Deployment Tools: Git, GitHub, Vercel
 
-Database: PostgreSQL
+Database: MySQL,SQL server
 
 Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 

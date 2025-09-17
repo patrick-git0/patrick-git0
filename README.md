@@ -1,6 +1,6 @@
 # Hello World!!!
 
-**`desenvolvedor Python`**
+**`Desenvolvedor Analista`**
 
 🧑🏻‍💻 eu sou um desenvolvedor atualmente cursando análise e desenvolvimento de sistemas na universidade cidade são paulo,tenho interesse em dados e back-end! 
   
